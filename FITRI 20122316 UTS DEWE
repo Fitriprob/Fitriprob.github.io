@@ -1,0 +1,97 @@
+ <!DOCTYPE html PUBLIC>
+
+ 
+  <body bg title="" ="white">
+	     <center><STRONG>D A T A  P R I B A D I</STRONG></center>
+
+    <!--start phone number-->
+         <div class="col-xs-12 col-sm6 col-lg-3"></div>
+	     <a class="hover-animate" href="#">
+         <span class="ukie-icons hover-animate"></span>
+		            No.phone: +62 857710307-42
+                     </a>
+                     </div>
+    <!--start address e-mail-->
+          <div class="col-xs-12 col-sm6 col-lg-3"></div>
+          <a class="hover-animate" href="#"
+          <span class="ukie-icons hover-animate"></span>
+                     E-mail : fitriprobsebelas11@gmail.com  
+                 </a>
+                 </div>
+<!--startto BIODATA-->
+   <!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="Biodata"/>
+<meta name="Keywords" content="Biodata"/>
+<meta name="authors" content="FITRI"/>
+<meta charset="UTF-8"/>
+<title>Biodata</title>
+<link rel="stylesheet" href="styleku.css"/>
+</head>
+<body>
+<form action="#" style="width: 1000px"class="posisi";>
+<fieldset class="h"/>
+<table style="width: 1000px;">
+<tr>
+<td rowspan="105" width="250px">
+<img src="foto.jpg.jpeg" width="600px" height="500px"/>
+</td>
+</tr>
+<tr>
+<td><b>Nama Lengkap</b></td>
+<td>:</td>
+<td>FITRI</td>
+</tr>
+<tr>
+<td><b>Tempat, Tanggal Lahir</b></td>
+<td>:</td>
+<td>Probolinggo,11 November 2001</td>
+</tr>
+<tr>
+<td><b>Umur</b></td>
+<td>:</td>
+<td>19 Tahun</td>
+</tr>
+<tr>
+<td><b>Jenis Kelamin</b></td>
+<td>:</td>
+<td>Wanita</td>
+</tr>
+<tr>
+<td><b>Gol. Darah</b></td>
+<td>:</td>
+<td>O</td>
+</tr>
+<tr>
+<td><b>Agama</b></td>
+<td>:</td>
+<td>Islam</td>
+</tr>
+<tr>
+<td><b>Alamat</b></td>
+<td>:</td>
+<td>Jln. Amir Hamzah, No 153</td>
+</tr>
+<tr>
+<td><b>Status</b></td>
+<td>:</td>
+<td>Belum Menikah</td>
+</tr>
+<tr>
+<td><b>Pekerjaan</b></td>
+<td>:</td>
+<td>Mahasiswa</td>
+</tr>
+<tr>
+<td><b>Kewarganegaraan</b></td>
+<td>:</td>
+<td>Indonesia</td>
+</tr>
+<tr>
+
+</body>
+</html>
+      
+</body>
+</html>
